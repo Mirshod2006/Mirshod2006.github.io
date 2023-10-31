@@ -1,0 +1,27 @@
+body
+{
+  background-color: black;
+}
+
+h1
+{
+ color: blue;
+}
+section
+{
+  color: #ec4949;  
+}
+
+li
+{
+  color: #ec4949;
+}
+img
+{
+  padding-left: 300px;
+  padding-right: 400px;
+}
+main
+{
+  color: #ec4949; 
+}
